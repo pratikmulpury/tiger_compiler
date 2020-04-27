@@ -10,7 +10,7 @@ http://www.cs.columbia.edu/~sedwards/classes/2002/w4115/tiger.pdf
 
 ###  USAGE
 
-From the SML REPL, entire the directory containing these files. 
+From the SML REPL, enter the directory containing these files. 
 
 ```sml
 OS.FileSys.chDir(compilerPath/)
